@@ -1,4 +1,4 @@
-### Olá! Sou Jonatas Lopes  👋
+### Hi, I'm Jonatas Lopes 👋
 Welcome to my space!
         
 - 🧑‍💻 Desenvolvedor Web Júnior 
