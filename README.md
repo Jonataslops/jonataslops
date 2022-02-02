@@ -1,7 +1,8 @@
 ### Olá! Sou Jonatas Lopes  👋
+Welcome to my space!
         
-- 🧑‍💻 Desenvolvedor Júnior 
-- ⏳  No momento estudando PHP 
+- 🧑‍💻 Desenvolvedor Web Júnior 
+- ⏳  
 <div align = "center">
   <a href="https://github.com/jonataslops ">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=jonataslops&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
